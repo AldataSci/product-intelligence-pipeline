@@ -1,0 +1,11 @@
+review_id,raw_text,rating,verified
+1,"I love this! But the battery died after 2 hours. <br> Fix it!",2,True
+2,"Terrible. Arrived broken. 0/10.",1,False
+3,"The UI is a bit laggy, but the camera is great. Overall okay.",3,True
+4,"BATTERY IS TRASH. DO NOT BUY. ALSO IT GETS HOT.",1,True
+5,"Best purchase ever. Fast shipping.",5,True
+6,"Screen cracked on day 1. <p>Very disappointed</p>",1,True
+7,"Amazing product! Worth every penny.",5,True
+8,"Battery life is poor and customer service was rude.",2,True
+9,"Overheats constantly. Returned it.",1,False
+10,"Good value for money. Minor issues with the app.",4,True
